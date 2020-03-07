@@ -1,0 +1,55 @@
+{
+    "project_info": {
+      "project_number": "133297062848",
+      "firebase_url": "https://deliveryrally-2f149.firebaseio.com",
+      "project_id": "deliveryrally-2f149",
+      "storage_bucket": "deliveryrally-2f149.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:133297062848:android:50534b773391edb1",
+          "android_client_info": {
+            "package_name": "com.example.iuliasanta.deliveryrally"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "133297062848-mgghrg40c74agqeqr1bfio76dvh392tp.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.example.iuliasanta.deliveryrally",
+              "certificate_hash": "64190cce0571ade36b58e4d4b1684bb43ac0f1bc"
+            }
+          },
+          {
+            "client_id": "133297062848-7e5tndkmu5b7ueivmol0t390lm4l02ed.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyA3yCZkc0pSFnrAsL41xQErdvFkjvNUTv8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "133297062848-7e5tndkmu5b7ueivmol0t390lm4l02ed.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "133297062848-brlh86le9nujlt68s0tup0ru10c8m0uo.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.RedBeesoftware.Delivery-Rally"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
